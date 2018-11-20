@@ -1,0 +1,67 @@
+body{
+    background-color: #f5d9df;
+    font-family: 'Crimson Text', serif;
+}
+
+#mainNav{
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#mainNav .navbar-brand{
+    color: #EA1C2C;
+    font-size: 1.5rem;
+}
+
+#mainNav .nav-link{
+    color: white;
+}
+
+#mainNav .nav-link:hover{
+    color:#EA1C2C;
+}
+
+#headers span{
+    color: #EA1C2C;
+}
+
+#headers h1{
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+.candyDescription h1{
+    color: #EA1C2C;
+    font-weight: 100;
+    font-size: 3rem;
+}
+
+.candyDescription p{
+    color: #f498b8;
+    font-size: 1.125rem;
+    line-height: 1.5;
+    
+}
+
+.mainContent{
+    margin-top: 100px;
+}
+
+/* Media queries */
+
+@media (max-width: 1200px){
+    #headers h1{
+        font-weight: 100;
+        font-size: 3rem;
+    }
+}
+
+@media(max-width: 992px){
+    #gunPic{
+        width: 100%;
+    }
+
+    #smile{
+        width: 100%;
+    }
+}
