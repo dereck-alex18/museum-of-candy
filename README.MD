@@ -1,0 +1,3 @@
+This project is just a template of a candy museum. The purpose to build it was to test the new features in bootstrap 4 such as add a new breakpoint to the nav bar, the new grid system with flexbox, the display property that can be changed according to the size of the screen and so on.
+
+Besides HTML, CSS and Bootstrap 4, JavaScript was used to change the background color of the navbar when the page is scrolled down. 
