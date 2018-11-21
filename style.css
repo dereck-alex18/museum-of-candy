@@ -27,6 +27,13 @@ body{
 }
 /* Style the nav bar */
 
+/* to remove the horizontal scroll bar */
+.row { 
+    margin-right: 0px;   
+    margin-left: 0px; 
+}
+/* to remove the horizontal scroll bar */
+
 /* Style the headers next to the main picture */
 #headers span{
     color: #EA1C2C;
@@ -64,6 +71,8 @@ body{
     background-color: rgb(222, 192, 222);
     
 }
+
+
 
 /* Media queries */
 
