@@ -1,0 +1,24 @@
+{
+  "name": "Museum_of_candy",
+  "version": "1.0.0",
+  "description": "This project is just a template of a candy museum. The purpose to build it was to test the new features in bootstrap 4 such as add a new breakpoint to the nav bar, the new grid system with flexbox, the display property that can be changed according to the size of the screen and so on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dereck-alex18/museum-of-candy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dereck-alex18/museum-of-candy/issues"
+  },
+  "homepage": "https://github.com/dereck-alex18/museum-of-candy",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
